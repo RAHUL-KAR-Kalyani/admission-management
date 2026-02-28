@@ -16,6 +16,13 @@
 
 ---
 
+## Deployed Link
+**Key Capabilities:**
+Frontend: https://admission-management-frontend.onrender.com
+Backend: https://admission-management-b0a8.onrender.com
+#### Deployed from render free instance so it might be delay to load
+
+
 ## Overview
 
 EduMerge is a full-stack admission management system built to help educational institutions efficiently manage their admission processes. The platform supports multiple user roles with specific permissions for school administrators, admission officers, and applicants.
