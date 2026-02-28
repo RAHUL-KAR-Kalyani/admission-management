@@ -1,4 +1,4 @@
-# EduMerge - Admission Management System
+# Admission Management System
 
 > A comprehensive, role-based admission management platform designed for educational institutions to streamline applicant processing, document verification, and seat allocation.
 
