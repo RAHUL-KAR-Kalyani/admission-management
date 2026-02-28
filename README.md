@@ -17,9 +17,9 @@
 ---
 
 ## Deployed Link
-**Key Capabilities:**
-Frontend: https://admission-management-frontend.onrender.com
-Backend: https://admission-management-b0a8.onrender.com
+
+**Frontend: https://admission-management-frontend.onrender.com**
+**Backend: https://admission-management-b0a8.onrender.com**
 #### Deployed from render free instance so it might be delay to load
 
 
